@@ -1,2 +1,2 @@
 # yls
-# Developing an interactive website for Yellow Ligth Store
+# Developing an interactive website for Yellow Light Store
